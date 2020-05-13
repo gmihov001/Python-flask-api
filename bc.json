@@ -74,7 +74,7 @@
         {
             "slug": "03-first-flask-app",
             "title": "03-first-flask-app",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/03-first-flask-app",
             "translations": [
                 "us"
@@ -83,7 +83,7 @@
         {
             "slug": "03.1-app-run",
             "title": "03.1-app-run",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/03.1-app-run",
             "translations": [
                 "us"
@@ -92,7 +92,7 @@
         {
             "slug": "03.2-check-for-live",
             "title": "03.2-check-for-live",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/03.2-check-for-live",
             "translations": [
                 "us"
@@ -101,7 +101,7 @@
         {
             "slug": "03.3-your-first-route",
             "title": "03.3-your-first-route",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/03.3-your-first-route",
             "translations": [
                 "us"
@@ -110,7 +110,7 @@
         {
             "slug": "04-runnig-flask",
             "title": "04-runnig-flask",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/04-runnig-flask",
             "translations": [
                 "us"
@@ -119,7 +119,7 @@
         {
             "slug": "05-returning-json",
             "title": "05-returning-json",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/05-returning-json",
             "translations": [
                 "us"
